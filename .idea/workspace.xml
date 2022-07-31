@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08a74359-b408-4fe5-94f0-11cf1a515ac6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/recover-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/recover-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/view/register.html" afterDir="false" />
-    </list>
+    <list default="true" id="08a74359-b408-4fe5-94f0-11cf1a515ac6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +98,7 @@
       <workItem from="1659087355662" duration="5237000" />
       <workItem from="1659283571205" duration="2229000" />
       <workItem from="1659300561233" duration="93000" />
-      <workItem from="1659300827784" duration="613000" />
+      <workItem from="1659300827784" duration="808000" />
     </task>
     <servers />
   </component>
