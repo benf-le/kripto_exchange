@@ -1,4 +1,4 @@
-# Kripto Exchange 
+# Kripto Exchange - Team Chẳng Giống Ai - BWD 2022 - VKU
 
 
 ### Preview
