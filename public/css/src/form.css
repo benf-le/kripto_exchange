@@ -1,0 +1,21 @@
+.form {
+    background: rgba(255, 255, 255, 0.9);
+    text-align: center;
+}
+
+.form input {
+    background: #fff;
+}
+
+.form a {
+    color: #302b63;
+}
+
+.form a:hover {
+    color: #302b63;
+}
+
+.form h1 {
+    margin-bottom: 2rem;
+    color: #302b63;
+}
