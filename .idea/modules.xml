@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bwdExample.iml" filepath="$PROJECT_DIR$/.idea/bwdExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kriptoexchange.iml" filepath="$PROJECT_DIR$/.idea/kriptoexchange.iml" />
     </modules>
   </component>
 </project>
